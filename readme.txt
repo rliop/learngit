@@ -1,1 +1,1 @@
-This is a readme file.
+Git is free software.
